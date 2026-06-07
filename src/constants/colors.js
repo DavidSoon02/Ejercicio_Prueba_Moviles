@@ -1,5 +1,5 @@
 /**
- * Paleta de colores oficial de EcuadorAlbumApp
+ * Paleta de colores oficial de La Tri
  * Basada en los colores de la Selección Ecuatoriana de Fútbol
  */
 export const COLORS = {

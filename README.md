@@ -1,4 +1,4 @@
-# 🇪🇨 EcuadorAlbumApp
+# 🇪🇨 La Tri
 
 **Aplicación Móvil — Selección Ecuatoriana de Fútbol**
 
@@ -6,13 +6,13 @@
 
 ## 1. Nombre del proyecto
 
-**EcuadorAlbumApp** — Álbum digital interactivo de la Selección Ecuatoriana de Fútbol.
+**La Tri** — Álbum digital interactivo de la Selección Ecuatoriana de Fútbol.
 
 ---
 
 ## 2. Descripción general
 
-EcuadorAlbumApp es una aplicación móvil desarrollada con **React Native** y **Expo Go** que simula un álbum de figuritas tipo Panini. La app permite explorar la plantilla actual de la Selección Ecuatoriana de Fútbol ("La Tri") a través de cartas coleccionables digitales organizadas por posición: arqueros, defensores, mediocampistas y delanteros.
+La Tri es una aplicación móvil desarrollada con **React Native** y **Expo Go** que simula un álbum de figuritas tipo Panini. La app permite explorar la plantilla actual de la Selección Ecuatoriana de Fútbol ("La Tri") a través de cartas coleccionables digitales organizadas por posición: arqueros, defensores, mediocampistas y delanteros.
 
 Cada jugador está representado por una carta visual con su dorsal, nombre, posición y un avatar genérico. Al presionar una carta, se abre un modal tipo ficha profesional con información detallada del jugador.
 
@@ -43,7 +43,7 @@ Cada jugador está representado por una carta visual con su dorsal, nombre, posi
 ## 5. Estructura de carpetas
 
 ```
-EcuadorAlbumApp/
+La Tri/
 │
 ├── App.js                      ← Punto de entrada de la aplicación
 ├── app.json                    ← Configuración del proyecto Expo
@@ -134,7 +134,7 @@ Ficha profesional del jugador que se abre al presionar una carta:
 
 ```bash
 # 1. Clonar o copiar el proyecto
-cd EcuadorAlbumApp
+cd La Tri
 
 # 2. Instalar dependencias
 npm install

@@ -26,7 +26,7 @@ export default function SplashScreen({ onFinish }) {
     // 2. Pulse sutil del logo después de aparecer
     setTimeout(() => {
       Animated.sequence([
-        Animated.timing(logoPulse, { toValue: 1.04, duration: 300, useNativeDriver: true }),
+        Animated.timing(logoPulse, { toValue: 3.00, duration: 300, useNativeDriver: true }),
         Animated.timing(logoPulse, { toValue: 1, duration: 300, useNativeDriver: true }),
       ]).start();
     }, 600);
